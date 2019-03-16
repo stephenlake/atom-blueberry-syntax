@@ -1,7 +1,7 @@
 {
   "name": "blueberry-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An Atom Syntax theme by Stephen Lake.",
   "keywords": [
     "syntax",
