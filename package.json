@@ -1,0 +1,15 @@
+{
+  "name": "blueberry-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "An Atom Syntax theme by Stephen Lake.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/stephenlake/atom-blueberry-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
