@@ -4,7 +4,7 @@
 
 # Blueberry Syntax
 
-A dark blueberry themed code syntax package for Atom. [Blueberry UI](https://github.com/stephenlake/atom-blueberry-ui) theme highly recommending as paired item.
+A dark blueberry themed code syntax package for Atom. [Blueberry UI](https://github.com/stephenlake/atom-blueberry-ui) theme highly recommended as paired item.
 
 ## Usage
 - Install:
